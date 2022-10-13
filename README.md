@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Dobriyr/Dobriyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I will be .Net Full stack developer
+- 💪 I like to write code
+- 📖 I am constantly learning new things
+- ⚡ I strive for continuous development
+- 🥳 I like to play the guitar and do sports
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools 
+<img align = "left" alt = "C#" width = "26px" src="https://www.pngegg.com/en/png-nwuho" />
+<img align = "left" alt = ".Net" width = "26px" src="" />
+<img align = "left" alt = "SQL" width = "26px" src="" />
+<img align = "left" alt = "HTML" width = "26px" src="" />
+<img align = "left" alt = "CSS" width = "26px" src="" />
+<img align = "left" alt = "Sass" width = "26px" src="" />
+<img align = "left" alt = "JavaScript" width = "26px" src="" />
+<img align = "left" alt = "C#" width = "26px" src="" />
